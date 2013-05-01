@@ -4,7 +4,7 @@ PHP .cab archive Reader
 >"Access Microsoft cabinet archives (.cab) in PHP.
 
 **author**:      Lorenz Lo Sauer (c) 2001  
-**website**:     https://lsauer.github.com/php-cab-reader  
+**website**:     http://lsauer.github.com/php-cab-reader  
 **license**:     LGPL, BSD license  
 **description**: Access and read Microsoft .cab archives  
 **note**:        Only archived, uncompressed cab-archives can be read at the moment.   
@@ -21,7 +21,7 @@ PHP .cab archive Reader
     $archiver = new cabarchive($cabfile);
     echo $archiver->get_filelist("html");
 
-View the resulting output at: http://goo.gl/CfxSO
+View the resulting output at: http://goo.gl/Js4Bd
 
 ## API
 <b>
